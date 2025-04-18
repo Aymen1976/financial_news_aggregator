@@ -1,0 +1,8 @@
+streamlit
+pandas
+fpdf
+python-dotenv
+openai
+gensim
+feedparser
+sentiment_analysis_lib  # ton analyseur
