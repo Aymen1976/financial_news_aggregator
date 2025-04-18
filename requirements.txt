@@ -1,9 +1,7 @@
-streamlit>=1.18.1
-pandas>=1.5.3
-python-dotenv>=1.0.0
-feedparser>=6.0.10
-openai>=0.27.0
-requests
-beautifulsoup4
+streamlit
+pandas
 fpdf
-
+python-dotenv
+openai
+gensim
+feedparser
